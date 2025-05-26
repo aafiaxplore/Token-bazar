@@ -1,6 +1,6 @@
 # 🛒 TokenBazaar
 
-**TokenBazaar** is a decentralized digital marketplace built on Ethereum. It allows users to list and purchase digital items using ERC20 tokens. Simple, secure, and censorship-resistant.
+**TokenBazaar** is a decentralized digital marketplace built on Ethereum-compatible networks. It allows users to list and purchase digital items using ERC20 tokens. Simple, secure, and censorship-resistant.
 
 ---
 
@@ -14,9 +14,19 @@
 
 ---
 
+## 🔗 Live Transaction Example
+
+Check out a real transaction on the BTCs Testnet:
+
+👉 [View on Blockchain Explorer](https://scan.test2.btcs.network/tx/0xdc2712d4a31f7ac48f116aa34b4ad0bb2f97295accedfeb88c1f5a7010551261)
+
+This confirms a successful purchase using TokenBazaar.
+
+---
+
 ## 📄 Smart Contract Overview
 
-TokenBazaar is written in Solidity and deployed to the Ethereum blockchain (or compatible chains like Polygon, Arbitrum, etc.).
+TokenBazaar is written in Solidity and deployed to the Ethereum blockchain (or compatible chains like Polygon, Arbitrum, BTCs Testnet, etc.).
 
 ### Core Smart Contract: `DigitalMarketplace.sol`
 
@@ -28,6 +38,3 @@ struct Item {
     uint price;
     bool isSold;
 }
-
-
-
