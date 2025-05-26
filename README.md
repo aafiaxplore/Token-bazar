@@ -39,4 +39,5 @@ struct Item {
     bool isSold;
 }
 contract details:https://scan.test2.btcs.network/tx/0xdc2712d4a31f7ac48f116aa34b4ad0bb2f97295accedfeb88c1f5a7010551261
-![tokem bazar](https://github.com/user-attachments/assets/3e6c033d-b451-489a-bfbe-8c7218d86e5f)
+![tokem bazar](https://github.com/user-attachments/assets/f08ed193-c8f8-43cc-9ded-081bbb265031)
+
